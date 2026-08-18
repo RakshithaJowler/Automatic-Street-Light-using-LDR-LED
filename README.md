@@ -48,4 +48,7 @@ void loop() {
 
 ## Project Image
 
-![Automatic Street Light Circuit](./image.png)
+![Automatic Street Light Circuit](./Screenshot 2026-08-18 224239.png)
+
+![Automatic Street Light Circuit]
+
